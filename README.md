@@ -12,12 +12,12 @@ Messaging Apps like WhatsApp can be used but they were not designed for this pro
 
 ## Proposed Solution
 
-Create API that allow person to add a message if he/she tested positive or was in contact with someone who did. The message must have list of numbers/emails of people that were close contact.
-The API sent message to all of them and advise each to add their own messages with people had close contact with soon after. The process goes on.
+An API with be created that will allow an individial to add a message that they have contracted the virus or have been in cloce contact with person that has tested positive. The message must have list of all the numbers/emails of the people that were in close contact.
+The API will send a message to all of them and advise each to add their own messages with people that they had close contact with soon after. The process goes on.
 
 By doing this, we will have a network of friends/families trying to protect each other by ensuring that self isolation is done early.
 
-Any person can also get a stat about the number of infected people on their area/village.
+Anyone will then have accesss to the information about how many others are positive in the area that they live as well as a means to keep up to the with higher risk places.
 
 ## draft Design
 
