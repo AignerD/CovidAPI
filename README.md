@@ -4,13 +4,13 @@
 
 ## Problem statement
 
-COVID-19 is spreads between people, mainly when an infected person is in close contact with another person.
-So currently in South Africa it mainly the government that has stats about infected people.
-So if you are surrounded by many infected people then you are in high risk of getting Covid.
+COVID-19 is a disease that spreads between people, mainly when an infected person comes into close contact with another person.
+Within South Africa, the government are the ones that currently possess all the information and stats about infected indivduals and the hotspots that are at the highest risk.
+So if you are surrounded by many infected people then you are in high risk of getting Covid. Therefore, being surrounded by many infected invididuals, or traveling around hotspot areas puts one at a higher risk to contract this virus.
 
-It will be better if there is an easier way for friends and families to notifier each other when there one person infected, or you have been in contact with someone who tested positive.
+It would be beneficial if there were an easier way for families and friends to update and notify each other when there has been a newly infected person around your area or in your familty, as well as if  you have been in close contact with an individual who has tested positivd.
 
-Messaging Apps like WhatsApp can be used but they were not designed for this problem and its so limited.
+Messaging Apps like WhatsApp can be used but they were not designed for this problem and its so limited.Messaging applications such as WhatsApp could provide a solution, however they have limited functionality for this problem in particular as the system isn't specifically designed for this usecase.
 
 ## Proposed Solution
 
