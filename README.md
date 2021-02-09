@@ -1,7 +1,5 @@
 ## Covid API
 
-** (You can improve this, I am just giving you a sample)
-
 ## Problem statement
 
 COVID-19 is a disease that spreads between people, mainly when an infected person comes into close contact with another person.
