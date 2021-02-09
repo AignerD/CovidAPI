@@ -1,6 +1,6 @@
-(You can improve this, I am just giving you a sample)
+** (You can improve this, I am just giving you a sample)
 
-********Problem statement ******
+## Problem statement
 
 COVID-19 is spreads between people, mainly when an infected person is in close contact with another person.
 So currently in South Africa it mainly the government that has stats about infected people.
@@ -10,7 +10,7 @@ It will be better if there is an easier way for friends and families to notifier
 
 Messaging Apps like WhatsApp can be used but they were not designed for this problem and its so limited.
 
-*****Proposed Solution ****
+## Proposed Solution
 
 Create API that allow person to add a message if he/she tested positive or was in contact with someone who did. The message must have list of numbers/emails of people that were close contact.
 The API sent message to all of them and advise each to add their own messages with people had close contact with soon after. The process goes on.
@@ -19,7 +19,7 @@ By doing this, we will have a network of friends/families trying to protect each
 
 Any person can also get a stat about the number of infected people on their area/village.
 
-*****design
+## draft Design
 
 People will be identified by their phone-number or email.
 
